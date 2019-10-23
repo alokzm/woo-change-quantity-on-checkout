@@ -8,7 +8,7 @@
  * Author URI:  https://github.com/alokzm
  * License:     GPLv2 or later
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
- * Text Domain: woo-woo-change-quantity-on-checkout
+ * Text Domain: woo-change-quantity-on-checkout
  * Domain Path: /languages/
  *
  * @package woo-woo-change-quantity-on-checkout
